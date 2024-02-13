@@ -43,4 +43,3 @@ int num10 = Convert.ToInt32(Console.ReadLine());
 int modulo = num9 % num10;
 Console.Write("El modulo de la división es: " + modulo);
 
-//A ver si sivrio
