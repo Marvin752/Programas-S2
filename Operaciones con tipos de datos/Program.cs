@@ -41,4 +41,4 @@ int num9 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Ingrese un segundo número para dividir: ");
 int num10 = Convert.ToInt32(Console.ReadLine());
 int modulo = num9 % num10;
-Console.WriteLine("El modulo de la división es: " + modulo);
+Console.Write("El modulo de la división es: " + modulo);
