@@ -6,7 +6,7 @@ decimal total78 = Convert.ToDecimal(num80);
 Console.Write("Ingrese un numero decimal: ");
 decimal num20 = Convert.ToDecimal(Console.ReadLine());
 decimal num30 = num20 + total78;
-Console.WriteLine("El numero convertido a entero es: " + total);
+Console.WriteLine("El numero convertido a entero es: " + total78);
 Console.WriteLine("Y sumado con un decimal es: " + num30);
 
 //Decimal a Float
