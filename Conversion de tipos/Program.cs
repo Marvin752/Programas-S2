@@ -28,7 +28,7 @@ char num16 = 'B';
 int num22 = Convert.ToInt32(num16);
 Console.WriteLine(num22);
 
-//Converitr entero a caracter
+//Convertir entero a caracter
 
 int num1 = 65;
 char num2 = (char)num1;
